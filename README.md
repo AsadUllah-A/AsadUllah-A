@@ -10,7 +10,7 @@
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-profolio.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmed-a-04b457298)
   
-  **📧 Email:** [ahmedaziz55223@gmail.com](mailto:ahmedaziz55223@gmail.com)
+  **📧 Email:** [asadullahswati90@gmail.com](mailto:asadullahswati90@gmail.com)
 
 </div>
 
@@ -18,7 +18,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```dart
 class MuhammadWasif extends FlutterDeveloper {
   String name = "Ahmed Aziz";
   String location = "Rawalpindi, Pakistan 🇵🇰";
@@ -29,7 +28,6 @@ class MuhammadWasif extends FlutterDeveloper {
     "🎨 Beautiful UI/UX Design",
     "⚡ Performance Optimization"
   ];
-```
 
 <br clear="right"/>
 
@@ -67,7 +65,7 @@ class MuhammadWasif extends FlutterDeveloper {
 
 [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Explore_My_Work-FF6B6B?style=for-the-badge&logo=vercel)]()
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ahmed-a-04b457298)
-[![Email](https://img.shields.io/badge/📧_Email-Let's_Discuss_Projects-FF9F1C?style=for-the-badge&logo=gmail)](mailto:ahmedaziz55223@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Discuss_Projects-FF9F1C?style=for-the-badge&logo=gmail)](mailto:asadullahswati90@gmail.com)
 
 ### **🔥 Currently Available For:**
 - 📱 **Flutter Mobile App Development**
