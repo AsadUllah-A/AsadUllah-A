@@ -41,58 +41,9 @@ class FlutterDeveloper {
 
 <div align="center">
 
-<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; margin-top:20px;">
-
-  <!-- Dart Badge -->
-  <div style="
-    background-color:#0175C2; 
-    color:white; 
-    padding:8px 16px; 
-    border-radius:20px; 
-    font-family:sans-serif; 
-    font-weight:bold;
-    font-size:14px;
-    display:flex;
-    align-items:center;
-    gap:6px;
-  ">
-    <!-- Optional logo using emoji for simplicity -->
-    🐬 Dart
-  </div>
-
-  <!-- Flutter Badge -->
-  <div style="
-    background-color:#02569B; 
-    color:white; 
-    padding:8px 16px; 
-    border-radius:20px; 
-    font-family:sans-serif; 
-    font-weight:bold;
-    font-size:14px;
-    display:flex;
-    align-items:center;
-    gap:6px;
-  ">
-    🦋 Flutter
-  </div>
-
-  <!-- C++ Badge -->
-  <div style="
-    background-color:#00599C; 
-    color:white; 
-    padding:8px 16px; 
-    border-radius:20px; 
-    font-family:sans-serif; 
-    font-weight:bold;
-    font-size:14px;
-    display:flex;
-    align-items:center;
-    gap:6px;
-  ">
-    💻 C++
-  </div>
-
-</div>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 
 </div>
 
