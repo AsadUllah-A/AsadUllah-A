@@ -10,7 +10,7 @@
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-profolio.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmed-a-04b457298)
   
-  **📧 Email:** [asadullahswati90@gmail.com](mailto:asadullahswati90@gmail.com)
+  **📧 Email :** [asadullahswati90@gmail.com](mailto:asadullahswati90@gmail.com)
 
 </div>
 
@@ -18,16 +18,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-class MuhammadWasif extends FlutterDeveloper {
-  String name = "Ahmed Aziz";
-  String location = "Rawalpindi, Pakistan 🇵🇰";
+```dart
+class FlutterDeveloper {
+  String name = "Asad Ullah";
+  String location = "Pakistan 🇵🇰";
+
   List<String> currentFocus = [
-    "🔥  Flutter Development",
-    "🧩  Problem Solving",
-    "📊 Data Structures & Algorithms",
-    "🎨 Beautiful UI/UX Design",
-    "⚡ Performance Optimization"
+    "Flutter Development",
+    "Data Structures & Algorithms",
+    "UI/UX Design",
+    "Performance Optimization",
+    "Problem Solving"
   ];
+}
+```
 
 <br clear="right"/>
 
@@ -36,9 +40,13 @@ class MuhammadWasif extends FlutterDeveloper {
 ### **Core Technologies**
 <div align="center">
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
+</div>
 
 </div>
 
@@ -61,6 +69,7 @@ class MuhammadWasif extends FlutterDeveloper {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
 ### **🚀 Ready to Collaborate?**
 
 [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Explore_My_Work-FF6B6B?style=for-the-badge&logo=vercel)]()
