@@ -7,8 +7,8 @@
   
   ### **Connect with me:**
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-profolio.netlify.app)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmed-a-04b457298)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-asadullahswati.netlify.app)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-ullah-262413359)
   
   **📧 Email :** [asadullahswati90@gmail.com](mailto:asadullahswati90@gmail.com)
 
@@ -71,8 +71,8 @@ class FlutterDeveloper {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Explore_My_Work-FF6B6B?style=for-the-badge&logo=vercel)](https://ahmed-profolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/💼_Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ahmed-a-04b457298)
+[![Portfolio](https://img.shields.io/badge/🌐_Explore_My_Work-FF6B6B?style=for-the-badge&logo=vercel)](https://portfolio-asadullahswati.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/💼_Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asad-ullah-262413359)
 [![Email](https://img.shields.io/badge/📧_Let's_Discuss_Projects-FF9F1C?style=for-the-badge&logo=gmail)](mailto:asadullahswati90@gmail.com)
 
 </div>
