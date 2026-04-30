@@ -35,8 +35,6 @@ class FlutterDeveloper {
 
 <br clear="right"/>
 
-## 🛠️ Tech Arsenal
-
 ### **Core Technologies**
 
 <div align="center">
